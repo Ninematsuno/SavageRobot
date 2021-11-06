@@ -7,7 +7,7 @@ import spamwatch
 import telegram.ext as tg
 from pyrogram import Client, errors
 from telethon import TelegramClient
-import SavageRobot.utils.logger import log 
+import SavageRobot.utils.logger  log 
 StartTime = time.time()
 
 # enable logging
